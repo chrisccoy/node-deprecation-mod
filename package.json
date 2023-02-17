@@ -1,0 +1,23 @@
+{
+  "name": "@chrisccoy/deprecation-mod",
+  "version": "1.0.0",
+  "description": "initial version of ISO8601 deprecation message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisccoy/node-deprecation-mod.git"
+  },
+  "keywords": [
+    "sample",
+    "deprecation"
+  ],
+  "author": "chris coy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisccoy/node-deprecation-mod/issues"
+  },
+  "homepage": "https://github.com/chrisccoy/node-deprecation-mod#readme"
+}
