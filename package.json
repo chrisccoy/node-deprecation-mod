@@ -1,5 +1,5 @@
 {
-  "name": "@chrisccoy/deprecation-mod",
+  "name": "@chrisccoy/node-deprecation-mod",
   "version": "1.0.0",
   "description": "initial version of ISO8601 deprecation message",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/chrisccoy/node-deprecation-mod/issues"
   },
-  "homepage": "https://github.com/chrisccoy/node-deprecation-mod#readme"
+  "homepage": "https://github.com/chrisccoy/node-deprecation-mod#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
